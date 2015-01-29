@@ -7,7 +7,7 @@ tags: 感悟
 ---
 
 
-  ![](/photos/20150129snow.png)
+  ![](/photos/20150129snow.jpg)
       
 	新年新气象，瑞雪兆丰年
 	
