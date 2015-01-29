@@ -1,9 +1,8 @@
 ---
-<!--日期、标题、thread?、标签-->
+<!--日期、标题、标签-->
 date: 2015-01-29 12:41:30+00:00
 layout: post
 title: 第一页
-thread: 1
 categories: 个人
 tags:  感悟
 ---
