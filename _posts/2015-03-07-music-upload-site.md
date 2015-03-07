@@ -19,6 +19,7 @@ tags: 音乐 外链
   
   VALSHE 的一首 君への嘘 推荐给大家
     
-<object type="application/x-shockwave-flash" width="17"
-height="17"data="http://www.uploadmusic.org/musicplayer.swf?song_url=http://www.uploadmusic.org/MUSIC/1535691425742982.mp3&autoplay=true"><param  name="movie"value="http://www.uploadmusic.org/musicplayer.swf?song_url=http://www.uploadmusic.org/MUSIC/1535691425742982.mp3&song_title=uploadmusic.org&autoplay=true"
-/></object>
+  上传以后的地址是：http://www.uploadmusic.org/MUSIC/1535691425742982.mp3
+  喜欢的话可以放到QQ空间哦
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=30569520&auto=1&height=66"></iframe>
