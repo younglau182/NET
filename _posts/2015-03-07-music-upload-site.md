@@ -1,0 +1,21 @@
+---
+date: 2015-03-07 22:49:31+00:00
+layout: post
+title: 能生成.mp3外链的免费音乐上传网站
+categories: 音乐
+tags: 音乐 外链
+---
+
+
+  QQ空间可以自己上传网络音乐链接，要求是.mp3或者.wma结尾的链接
+  
+  下面推荐一个免费mp3音乐上传同时能生成合格外链的网站
+  [http://www.uploadmusic.org](http://www.uploadmusic.org)
+
+  今天补寒假拉下的柯南，发现片尾曲挺好听的
+  VALSHE 的一首 君への嘘 推荐给大家
+  
+<a href="http://www.uploadmusic.org"><object type="application/x-shockwave-flash" width="17"
+height="17"data="http://www.uploadmusic.org/musicplayer.swf?song_url=http://www.uploadmusic.org/MUSIC/1535691425742982.mp3&autoplay=true"><param  name="movie"value="http://www.uploadmusic.org/musicplayer.swf?song_url=http://www.uploadmusic.org/MUSIC/1535691425742982.mp3&song_title=uploadmusic.org&autoplay=true"
+/></object><img src="http://www.uploadmusic.org/smallplayer.gif" border="0">
+<br>Upload Music</a>
