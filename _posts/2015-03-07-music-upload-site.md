@@ -18,4 +18,6 @@ tags: 音乐 外链
   今天补寒假落下的柯南，发现片尾曲挺好听的
   VALSHE 的一首 君への嘘 推荐给大家
     
-http://www.uploadmusic.org/MUSIC/1535691425742982.mp3
+<object type="application/x-shockwave-flash" width="17"
+height="17"data="http://www.uploadmusic.org/musicplayer.swf?song_url=http://www.uploadmusic.org/MUSIC/1535691425742982.mp3&autoplay=true"><param  name="movie"value="http://www.uploadmusic.org/musicplayer.swf?song_url=http://www.uploadmusic.org/MUSIC/1535691425742982.mp3&song_title=uploadmusic.org&autoplay=true"
+/></object>
