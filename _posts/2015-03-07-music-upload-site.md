@@ -15,9 +15,9 @@ tags: 音乐 外链
   使用方法很简单
   上传以后  在弹出的代码中找到类似http://www.uploadmusic.org/MUSIC/XXXXXXXX.mp3 格式的部分即可
     
-  今天补寒假落下的柯南，发现片尾曲挺好听的  
-  
-  VALSHE 的一首 君への嘘 推荐给大家
+  BTW:
+  今天补寒假落下没看的柯南，发现片尾曲挺好听的
+  一首VALSHE的《君への嘘》推荐给大家
     
   上传以后的地址是：http://www.uploadmusic.org/MUSIC/1535691425742982.mp3
   喜欢的话可以放到QQ空间哦
