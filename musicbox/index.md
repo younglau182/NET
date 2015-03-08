@@ -3,4 +3,7 @@ title: 音乐盒
 layout: page
 comments: no
 ---
-准备弄个音乐播放器，收集自己喜欢音乐
+
+ 歌单来自我的网易云音乐， 版权归版权方所有
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="http://music.163.com/outchain/player?type=0&id=16498438&auto=1&height=430"></iframe>
